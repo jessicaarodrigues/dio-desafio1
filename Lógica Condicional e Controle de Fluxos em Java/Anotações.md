@@ -83,3 +83,20 @@ Boas práticas
 - Evitar o efeito "flecha" dos if's
 - Evitar muitos if's aninhados
 - Usar a boa prática da aula 2 para diminuir o tamanho do if
+
+## **Blocos**
+
+É um grupo de 0 ou mais códigos quais trabalham em conjunto para executar uma operação.
+
+Tipos:
+- Locais: dentro de métodos
+- Estáticos: dentro de classes
+- Instância: dentro de classes
+
+Locais:
+
+	{
+	
+	...
+	
+	}
